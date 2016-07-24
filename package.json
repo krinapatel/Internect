@@ -1,0 +1,21 @@
+{
+  "name": "NodejsStarterApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "1.5.2",
+    "cfenv": "1.0.x",
+    "cloudant": "^1.4.2",
+    "dotenv": "*",
+    "express": "^4.13.4",
+    "multer": "^1.1.0",
+    "nano": "^6.2.0"
+  },
+  "repository": {},
+  "engines": {
+    "node": "4.x"
+  }
+}
